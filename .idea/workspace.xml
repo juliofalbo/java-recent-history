@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cabeae9-dd7e-4373-ac6c-ea412f0d215b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/changes/versions/eight/LambdaExpressions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/java-versions-features.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/changes/versions/seven/BinaryLiterals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/changes/versions/seven/BinaryLiterals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/changes/versions/seven/DiamondOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/changes/versions/seven/DiamondOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/changes/versions/seven/G1GarbageCollector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/changes/versions/seven/G1GarbageCollector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/changes/versions/seven/MultiCatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/changes/versions/seven/MultiCatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/changes/versions/seven/NewIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/changes/versions/seven/NewIO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/changes/versions/seven/RethrowExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/changes/versions/seven/RethrowExceptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/changes/versions/seven/StringInSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/changes/versions/seven/StringInSwitch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/changes/versions/seven/TryWithResources$SomeResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/changes/versions/seven/TryWithResources$SomeResource.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/changes/versions/seven/TryWithResources.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/changes/versions/seven/TryWithResources.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/changes/versions/seven/UnderscoreInNumericLiterals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/changes/versions/seven/UnderscoreInNumericLiterals.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1RQsQStEdTSxbeROQJPZhFKc9Ch" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -164,7 +152,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
