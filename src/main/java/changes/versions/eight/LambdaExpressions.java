@@ -89,8 +89,11 @@ public class LambdaExpressions {
     }
 
     private static void targetTypeAndMethodArgumentsTest() {
-        invoke((param1, param2) -> "Concat" + param1 + param2);
+        String invoke = invoke((param1, param2) -> "Concat" + param1 + param2);
+        System.out.println(invoke);
+
         invoke((param1, param2) -> {
+            System.out.println(param1 + param2);
         });
     }
 
