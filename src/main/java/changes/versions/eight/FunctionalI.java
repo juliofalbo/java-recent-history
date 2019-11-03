@@ -1,5 +1,7 @@
 package changes.versions.eight;
 
+import java.util.function.Function;
+
 @FunctionalInterface
 public interface FunctionalI {
     void abstractMethod();
