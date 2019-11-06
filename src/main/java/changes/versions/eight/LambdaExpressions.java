@@ -89,7 +89,7 @@ public class LambdaExpressions {
     }
 
     private static void targetTypeAndMethodArgumentsTest() {
-        String invoke = invoke((param1, param2) -> "Concat" + param1 + param2);
+        String invoke = invoke((param1, param2) -> "ConcatStringInterface" + param1 + param2);
         System.out.println(invoke);
 
         invoke((param1, param2) -> {
@@ -98,11 +98,11 @@ public class LambdaExpressions {
     }
 
     public static void invoke(PrintInterface p) {
-        p.print("a", "b");
+        p.print("PrintInterface", "1");
     }
 
     public static String invoke(ConcatStringInterface c) {
-        return c.concat("a", "b");
+        return c.concat("1", "2");
     }
 
 }
